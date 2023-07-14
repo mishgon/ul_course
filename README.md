@@ -1,2 +1,2 @@
-# ml
-Machine Learning Educational Materials
+# unsupervised_course
+Course on unsupervised learning
