@@ -1,2 +1,2 @@
-# unsupervised_course
+# ul_course
 Course on unsupervised learning
